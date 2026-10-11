@@ -1,0 +1,4 @@
+interface:
+  display_name: "Register Project"
+  short_description: "Save a local folder as a Codex sidebar project"
+  default_prompt: "Use $register-project to save this local folder as a Codex project and verify its sidebar registration."
