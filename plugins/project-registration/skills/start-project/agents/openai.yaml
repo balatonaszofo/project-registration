@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start Project"
+  short_description: "Create and save a named local project"
+  default_prompt: "Use $start-project to create a named project, register it in Codex, and continue this assignment."
