@@ -1,0 +1,20 @@
+{
+  "name": "project-registration-beta",
+  "plugins": [
+    {
+      "name": "project-registration",
+      "source": {
+        "source": "local",
+        "path": "./plugins/project-registration"
+      },
+      "category": "Productivity",
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      }
+    }
+  ],
+  "interface": {
+    "displayName": "Project Registration Beta"
+  }
+}
